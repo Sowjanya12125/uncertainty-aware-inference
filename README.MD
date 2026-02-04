@@ -17,6 +17,7 @@ Agreement in mean predictions does not imply agreement in confidence.
 
 ## Contents
 - `notebook/uncertainty_vs_point_estimates.ipynb`: Full experimental analysis
+- `When Point Estimates Fail_ An Exploratory Note on Uncertainty in Noisy Regression (4)`: This is a reseacrh note on its core problem analysis and limitations to understand the problem statement better 
 
 ## Note
 This study is intended as a conceptual probe rather than a complete solution.
